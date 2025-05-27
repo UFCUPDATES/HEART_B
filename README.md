@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://files.catbox.moe/yi9mms.jpg" alt="93.5 Red Fm Logo" width="500px">
+<img src="https://files.catbox.moe/79q77r.jpg" alt="ʜЄᴧꝚᴛʙЄᴧᴛ Red Fm Logo" width="500px">
 </p>
 
-<h1 align="center">𝟵𝟯.𝟱 𝗥𝗘𝗗 𝗙𝗠🎧 [ ɴᴏ ᴀᴅʂ ]</h1>
+<h1 align="center">ʜЄᴧꝚᴛʙЄᴧᴛ ϻυsɪᴄ</h1>
 
 <p align="center">
   <b>A Powerful Telegram Music Bot to Play Songs in Voice Chats</b>
