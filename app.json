@@ -1,7 +1,7 @@
 {
-    "name": "Noxx Music",
+    "name": "Red Fm",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/Aviax-02-24",
+    "logo": "https://files.catbox.moe/yi9mms.jpg",
     "keywords": [
         "python3",
         "telegram",
@@ -69,12 +69,12 @@
         },
         "SUPPORT_GROUP": {
             "description": "Your support group username (without @)",
-            "value": "https://t.me/ShrutiBotsupport",
+            "value": "https://t.me/BESTIE_UNITE_CLUB",
             "required": false
         },
         "SUPPORT_CHANNEL": {
             "description": "Your support channel username (without @)",
-            "value": "https://t.me/ShrutiBots",
+            "value": "https://t.me/Silenthrex",
             "required": false
         },
         "API_KEY": {
