@@ -15,7 +15,7 @@ HELP_1 = """<b><u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_2 = """
@@ -27,7 +27,7 @@ HELP_2 = """
 /unauth [ᴜsᴇʀɴᴀᴍᴇ/ᴜsᴇʀ_ɪᴅ] : ʀᴇᴍᴏᴠᴇ ᴀ ᴀᴜᴛʜ ᴜsᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ.
 /authusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴜᴛʜ ᴜsᴇʀs ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_3 = """
@@ -44,7 +44,7 @@ HELP_3 = """
 
 <b>ᴇxᴀᴍᴩʟᴇ:</b> <code>/broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ</code>
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_4 = """<u><b>ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
@@ -55,7 +55,7 @@ HELP_4 = """<u><b>ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u
 /whitelistchat [ᴄʜᴀᴛ ɪᴅ] : ᴡʜɪᴛᴇʟɪsᴛ ᴛʜᴇ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛ.
 /blacklistedchat : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛs.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_5 = """
@@ -67,7 +67,7 @@ sᴛᴀʀᴛs ɪɢɴᴏʀɪɴɢ ᴛʜᴇ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴜsᴇʀ, 
 /unblock [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ] : ᴜɴʙʟᴏᴄᴋs ᴛʜᴇ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀ.
 /blockedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_6 = """
@@ -81,7 +81,7 @@ HELP_6 = """
 
 /channelplay [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ɪᴅ] ᴏʀ [ᴅɪsᴀʙʟᴇ] : ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴩ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʀᴀᴄᴋs ʙʏ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴄᴏᴍᴍᴀɴᴅs sᴇɴᴛ ɪɴ ɢʀᴏᴜᴩ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_7 = """
@@ -91,7 +91,7 @@ HELP_7 = """
 /ungban [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ] : ɢʟᴏʙᴀʟʟʏ ᴜɴʙᴀɴs ᴛʜᴇ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀ.
 /gbannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀs.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_8 = """
@@ -114,7 +114,7 @@ HELP_9 = """
 
 /maintenance [ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ ᴏʀ ᴅɪsᴀʙʟᴇ ᴛʜᴇ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ᴍᴏᴅᴇ ᴏғ ʏᴏᴜʀ ʙᴏᴛ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_10 = """
@@ -127,7 +127,7 @@ HELP_10 = """
 
 /stats : sʜᴏᴡs ᴛʜᴇ ᴏᴠᴇʀᴀʟʟ sᴛᴀᴛs ᴏғ ᴛʜᴇ ʙᴏᴛ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_11 = """
@@ -140,7 +140,7 @@ HELP_11 = """
 
 /playforce ᴏʀ /vplayforce : sᴛᴏᴩs ᴛʜᴇ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛʀᴀᴄᴋ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_12 = """
@@ -149,7 +149,7 @@ HELP_12 = """
 /shuffle : sʜᴜғғʟᴇ's ᴛʜᴇ ᴏ̨ᴜᴇᴜᴇ.
 /queue : sʜᴏᴡs ᴛʜᴇ sʜᴜғғʟᴇᴅ ᴏ̨ᴜᴇᴜᴇ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_13 = """
@@ -158,7 +158,7 @@ HELP_13 = """
 /seek [ᴅᴜʀᴀᴛɪᴏɴ ɪɴ sᴇᴄᴏɴᴅs] : sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
 /seekback [ᴅᴜʀᴀᴛɪᴏɴ ɪɴ sᴇᴄᴏɴᴅs] : ʙᴀᴄᴋᴡᴀʀᴅ sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_14 = """
@@ -166,7 +166,7 @@ HELP_14 = """
 
 /song [sᴏɴɢ ɴᴀᴍᴇ/ʏᴛ ᴜʀʟ] : ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ᴛʀᴀᴄᴋ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ ɪɴ ᴍᴘ3 ᴏʀ ᴍᴘ4 ғᴏʀᴍᴀᴛs.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_15 = """
@@ -177,7 +177,7 @@ HELP_15 = """
 /speed or /playback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ɢʀᴏᴜᴘ.
 /cspeed or /cplayback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ᴄʜᴀɴɴᴇʟ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
 
 HELP_16 = """
@@ -185,5 +185,5 @@ HELP_16 = """
 
 /Privacy : Display the privacy statement for Sarcastic Bot 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+❖ ϻᴧᴅє ʙʏ  ➠ [ʜЄᴧꝚᴛ ʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
 """
