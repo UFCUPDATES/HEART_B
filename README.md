@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NoxxOP/ShrutiMusic/fork"><img src="https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=social" alt="GitHub Forks"></a>
+  <a href="https://github.com/Silenthrax/SHRUTI/fork"><img src="https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=social" alt="GitHub Forks"></a>
   <a href="https://github.com/NoxxOP/ShrutiMusic/stargazers"><img src="https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/NoxxOP/ShrutiMusic/graphs/contributors"><img src="https://img.shields.io/github/contributors/NoxxOP/ShrutiMusic?style=social" alt="GitHub Contributors"></a>
 </p>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Silenthrax/SHRUTI"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
 </p>
 
 ## ✨ Features
