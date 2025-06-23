@@ -41,7 +41,7 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ll_P_U_L_lI")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/UFC_UPDATES")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ll_KHAYALI_PULAO_ll")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -85,8 +85,8 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/79q77r.jpg")
-PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/79q77r.jpg")
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/t2x8in.jpg")
+PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/t2x8in.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/79q77r.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/79q77r.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/79q77r.jpg"
